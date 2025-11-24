@@ -1,0 +1,30 @@
+# Requirements for Teletón SERVQUAL Analysis
+# ==========================================
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Statistical analysis
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Dashboard
+streamlit>=1.28.0
+
+# Jupyter notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# Data formats
+pyarrow>=12.0.0
+
+# Optional: for geographic visualization
+# folium>=0.14.0
+# geopandas>=0.13.0
